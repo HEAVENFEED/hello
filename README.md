@@ -23,8 +23,8 @@
 </a>
 <a href="https://www.facebook.com/tuthandaukho.UWU"><img src="https://raw.githubusercontent.com/hellsnakes/hellsnakes/main/img/a.gif"></a>
 <br/><details><summary>Lớp học</summary>[Giải tích](https://zalo.me/g/iioqlj643)
-<br/><details><summary>Lớp học</summary>[Phap luat dai cuong](https://zalo.me/g/cyiscb736)
-<br/><details><summary>Lớp học</summary>[Co hoc ki thuat](https://zalo.me/g/ujucuz042)
-<br/><details><summary>Lớp học</summary>[CD cad](https://zalo.me/g/pbxddr758)
-<br/><details><summary>Lớp học</summary>[An toan lao dong va bao ve moi truong](https://zalo.me/g/akeohl257)
+<<p>[Phap luat dai cuong](https://zalo.me/g/cyiscb736)
+<p>[Co hoc ki thuat](https://zalo.me/g/ujucuz042)
+<p>[CD cad](https://zalo.me/g/pbxddr758)
+<p>[An toan lao dong va bao ve moi truong](https://zalo.me/g/akeohl257)
 
